@@ -1,5 +1,0 @@
-#no .txt files
-*.txt
-
-#do track README.txt
-!README.txt
