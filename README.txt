@@ -1,1 +1,1 @@
-Goga + Romela
+Goga + Romela = Love
