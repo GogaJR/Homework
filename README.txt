@@ -1,1 +1,1 @@
-I like football.
+Open test.txt
